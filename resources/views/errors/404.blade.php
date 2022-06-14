@@ -12,11 +12,10 @@
 </head>
 
 <body class="antialiased">
+    <h1>This is an example application</h1>
     <h2 class="display-3">404</h2>
     <p class="display-5">Oops! Something is wrong.</p>
     <x-lottie-hello />
 </body>
 
 </html>
-
-

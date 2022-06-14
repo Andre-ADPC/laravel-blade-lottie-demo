@@ -78,7 +78,7 @@ return [
         /*
          * Data Source. Supported: "url", "content"
          */
-        'data_source' => 'content',
+        'data_source' => 'url',
     ],
 
 ];

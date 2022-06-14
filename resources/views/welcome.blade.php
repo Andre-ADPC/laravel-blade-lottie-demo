@@ -12,8 +12,8 @@
 </head>
 
 <body class="antialiased">
+    <h1>This is an example application</h1>
     <x-lottie-hello />
 </body>
 
 </html>
-
