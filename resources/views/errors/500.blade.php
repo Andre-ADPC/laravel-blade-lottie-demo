@@ -12,11 +12,9 @@
 </head>
 
 <body class="antialiased">
-    <h2 class="display-3">404</h2>
-    <p class="display-5">Oops! Something is wrong.</p>
+    <h2 class="display-3">500</h2>
+    <p class="display-5">Oh no! Something is wrong on the server.</p>
     <x-lottie-hello />
 </body>
 
 </html>
-
-
